@@ -1,0 +1,5 @@
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\Home_work_1_Roman_Rozyev\Home_work_1_Roman_Rozyev.git\Calculate the length\bin\Debug\Calculate the length.exe
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\Home_work_1_Roman_Rozyev\Home_work_1_Roman_Rozyev.git\Calculate the length\bin\Debug\Calculate the length.pdb
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\Home_work_1_Roman_Rozyev\Home_work_1_Roman_Rozyev.git\Calculate the length\obj\x86\Debug\Calculate the length.exe
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\Home_work_1_Roman_Rozyev\Home_work_1_Roman_Rozyev.git\Calculate the length\obj\x86\Debug\Calculate the length.pdb
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\Home_work_1_Roman_Rozyev\Home_work_1_Roman_Rozyev.git\Calculate the length\obj\x86\Debug\Calculate the length.csprojResolveAssemblyReference.cache

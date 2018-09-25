@@ -1,0 +1,10 @@
+c:\users\роман\documents\visual studio 2010\Projects\Home_work_1_Roman_Rozyev\Home_work_1_Roman_Rozyev\bin\Debug\Home_work_1_Roman_Rozyev.exe
+c:\users\роман\documents\visual studio 2010\Projects\Home_work_1_Roman_Rozyev\Home_work_1_Roman_Rozyev\bin\Debug\Home_work_1_Roman_Rozyev.pdb
+c:\users\роман\documents\visual studio 2010\Projects\Home_work_1_Roman_Rozyev\Home_work_1_Roman_Rozyev\obj\x86\Debug\Home_work_1_Roman_Rozyev.exe
+c:\users\роман\documents\visual studio 2010\Projects\Home_work_1_Roman_Rozyev\Home_work_1_Roman_Rozyev\obj\x86\Debug\Home_work_1_Roman_Rozyev.pdb
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\Home_work_1_Roman_Rozyev\Home_work_1_Roman_Rozyev.git\Home_work_1_Roman_Rozyev\obj\x86\Debug\Home_work_1_Roman_Rozyev.exe
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\Home_work_1_Roman_Rozyev\Home_work_1_Roman_Rozyev.git\Home_work_1_Roman_Rozyev\obj\x86\Debug\Home_work_1_Roman_Rozyev.pdb
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\Home_work_1.1_Roman_Rozyev\Home_work_1_Roman_Rozyev\obj\x86\Debug\Home_work_1_Roman_Rozyev.exe
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\Home_work_1.1_Roman_Rozyev\Home_work_1_Roman_Rozyev\obj\x86\Debug\Home_work_1_Roman_Rozyev.pdb
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\Home_work_v1.2_Roman_Rozyev\Home_work_1_Roman_Rozyev\obj\x86\Debug\Home_work_1_Roman_Rozyev.exe
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\Home_work_v1.2_Roman_Rozyev\Home_work_1_Roman_Rozyev\obj\x86\Debug\Home_work_1_Roman_Rozyev.pdb

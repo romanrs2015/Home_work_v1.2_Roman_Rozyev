@@ -1,0 +1,8 @@
+c:\users\роман\documents\visual studio 2010\Projects\Home_work_1_Roman_Rozyev\IMT\bin\Debug\IMT.exe
+c:\users\роман\documents\visual studio 2010\Projects\Home_work_1_Roman_Rozyev\IMT\bin\Debug\IMT.pdb
+c:\users\роман\documents\visual studio 2010\Projects\Home_work_1_Roman_Rozyev\IMT\obj\x86\Debug\IMT.exe
+c:\users\роман\documents\visual studio 2010\Projects\Home_work_1_Roman_Rozyev\IMT\obj\x86\Debug\IMT.pdb
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\Home_work_1_Roman_Rozyev\Home_work_1_Roman_Rozyev.git\IMT\obj\x86\Debug\IMT.exe
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\Home_work_1_Roman_Rozyev\Home_work_1_Roman_Rozyev.git\IMT\obj\x86\Debug\IMT.pdb
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\Home_work_1_Roman_Rozyev\Home_work_1_Roman_Rozyev.git\IMT\bin\Debug\IMT.exe
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\Home_work_1_Roman_Rozyev\Home_work_1_Roman_Rozyev.git\IMT\bin\Debug\IMT.pdb
